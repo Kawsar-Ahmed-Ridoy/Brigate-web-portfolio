@@ -117,7 +117,7 @@ ul.MainMenuItem li {
   transition: 0.4s;
 }
 #slider {
-  background: url(../photos/brigate2.jpg);
+  background: url(photos/brigate2.jpg);
   background-repeat: no-repeat;
   background-position: 100%;
   padding: 0px;
@@ -369,7 +369,7 @@ button.workButton2:hover {
   color: white;
 }
 #dailyCount {
-  background: linear-gradient(#00000099, #00000099), url(../photos/brigate4.jpg);
+  background: linear-gradient(#00000099, #00000099), url(photos/brigate4.jpg);
   background-repeat: no-repet;
   background-size: cover;
   background-position: center center;
